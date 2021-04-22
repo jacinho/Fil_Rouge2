@@ -1,0 +1,14 @@
+Notre organisation AGILE/SCRUM s'articule de la façon suivante:
+
+1-Un topo sur l'objectif à atteindre en fin de filrouge.
+
+2-Partage des différentes taches suivant les compétences de chacun. 
+
+3-Un point de 10minutes toutes les heures pour évaluer l'état d'avancement. 
+
+4-Bilan en fin de journée:
+	déterminer si l'objectif a été atteint,
+	comment c'est passé le filrouge,
+	méthode d'amélioration pour les prochains filrouges.
+
+5-Livraison
